@@ -20,12 +20,12 @@ Check the venv installation and Activation documentation [here](https://packagin
 
 ### 3. Install the requirements
 ```bash
-`pip install -r requirements.txt`
+pip install -r requirements.txt
 ```
 
 ### 4. Run The Program
 ```bash
-`python main.py`
+python main.py
 ```
 
 ## Result
